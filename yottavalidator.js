@@ -1,0 +1,3 @@
+use restrict
+
+var x = '';
